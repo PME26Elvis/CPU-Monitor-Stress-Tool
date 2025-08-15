@@ -1,0 +1,5 @@
+PyQt5
+psutil>=5.8.0
+pyqtgraph
+py-cpuinfo
+numpy
