@@ -6,3 +6,7 @@ dist/
 *.spec
 *.egg-info/
 .DS_Store
+__pycache__/
+*.pyc
+*.csv
+
